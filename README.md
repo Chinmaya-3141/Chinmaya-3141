@@ -25,22 +25,9 @@
 
 - ⚡ Fun fact [One of the earliest known instances of data visualization being used to influence public policy was getting better sanitary conditions for British soldiers.](https://www.smithsonianmag.com/history/surprising-history-infographic-180959563/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/chinmaya-v-369b41217" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaya-v-369b41217" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://kaggle.com/chinmayavenkat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.hackerrank.com/chinmayavenkat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.leetcode.com/chinmaya_3141" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaya_3141" height="30" width="40" />
-  </a>
-</p>
+<br>
 
+---
 
 <h3 align="left">My Skills:</h3>
 <table>
@@ -155,15 +142,13 @@
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
         </div>
       </td>
-      <td align="center">
-        <div>
-        </div>
-      </td>
     </tr>
   </tbody>
 </table>
 
-<table align="center">
+<br>
+<h3 align="left">Github stats:</h3>
+<table align="left">
   <tr>
     <td align="center" style="padding: 5px;">
       <img width="275" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaya-3141&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -177,6 +162,21 @@
   </tr>
 </table>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/chinmaya-v-369b41217" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaya-v-369b41217" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://kaggle.com/chinmayavenkat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/chinmayavenkat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.leetcode.com/chinmaya_3141" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaya_3141" height="30" width="40" />
+  </a>
+</p>
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
