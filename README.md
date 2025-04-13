@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://chinmaya-3141.github.io/my-resume-generator/](https://chinmaya-3141.github.io/my-resume-generator/)
 
-- ⚡ Fun fact **One of the earliest known instances of data visualization being used to influence public policy was getting better sanitary conditions for British soldiers. https://www.smithsonianmag.com/history/surprising-history-infographic-180959563/**
+- ⚡ Fun fact [One of the earliest known instances of data visualization being used to influence public policy was getting better sanitary conditions for British soldiers.](https://www.smithsonianmag.com/history/surprising-history-infographic-180959563/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
