@@ -78,8 +78,8 @@
     </tr>
     <tr>
       <th>Programming Languages</th>
-      <th>Frontend Development</th>
-      <th>Backend Development</th>
+      <th>Frontend</th>
+      <th>Backend</th>
       <th>DevOps</th>
     </tr>
     <tr>
