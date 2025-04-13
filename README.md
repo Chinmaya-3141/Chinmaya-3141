@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Cypher, Flask, Azure OpenAI, Scrapy**
 
-- 👯 I’m looking to collaborate on [(no active project for now)](https://example.com/)
+[comment]: # "- 👯 I’m looking to collaborate on [(no active project at the moment)](https://example.com/)"
 
-- 🤝 I’m looking for help with [(no active project for now)](https://example.com/)
+[comment]: # "- 🤝 I’m looking for help with [(no active project at the moment)](https://example.com/)"
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chinmaya-3141](https://github.com/Chinmaya-3141)
 
-- 📝 I write articles on [https://example.com/](https://example.com/)
+[comment]: # "- 📝 I write articles on [https://example.com/](https://example.com/)"
 
 - 💬 Ask me about **AI-ML, Cloud, Finance/Trading, Consulting**
 
