@@ -126,6 +126,7 @@
           <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="Flask" width="40" height="40"/>
           <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
           <img src="https://www.cdnlogo.com/logos/f/59/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+          <img src="https://thepythonscrapyplaybook.com/img/sdk-icons/scrapy-logo.png" alt="Scrapy" width="45" height="45"/>
         </div>
       </td>
       <td align="center">
