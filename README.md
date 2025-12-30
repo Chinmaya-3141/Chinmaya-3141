@@ -153,9 +153,9 @@
 </table>
 
 
-<div style="margin-bottom: 20px;">
-  <h3 align="left">Github stats:</h3>
-  <table align="left">
+<h3 align="left">Github stats:</h3>
+<div style="width: 100%; overflow: auto;">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
       <td align="center" style="padding: 5px;">
         <img width="275" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaya-3141&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -170,23 +170,21 @@
   </table>
 </div>
 
-<div>
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/chinmaya-v-369b41217" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaya-v-369b41217" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://kaggle.com/chinmayavenkat" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://www.hackerrank.com/chinmayavenkat" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://www.leetcode.com/chinmaya_3141" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaya_3141" height="30" width="40" />
-    </a>
-  </p>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/chinmaya-v-369b41217" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaya-v-369b41217" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://kaggle.com/chinmayavenkat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/chinmayavenkat" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.leetcode.com/chinmaya_3141" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaya_3141" height="30" width="40" />
+  </a>
+</p>
 
 
 
