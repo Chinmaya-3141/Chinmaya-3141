@@ -151,38 +151,42 @@
     </tr>
   </tbody>
 </table>
-
-<br>
 <h3 align="left">Github stats:</h3>
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 5px;">
-      <img width="275" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaya-3141&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-    <td align="center" style="padding: 5px;">
-      <img width="310" src="https://github-readme-stats.vercel.app/api?username=chinmaya-3141&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="padding: 5px;">
-      <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaya-3141" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <table align="left">
+    <tr>
+      <td align="center" style="padding: 5px;">
+        <img width="275" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaya-3141&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+      <td align="center" style="padding: 5px;">
+        <img width="310" src="https://github-readme-stats.vercel.app/api?username=chinmaya-3141&show_icons=true&locale=en" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="padding: 5px;">
+        <img width="325" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaya-3141" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+  
+  <div style="margin-left: 20px;">
+    <h3>Connect with me:</h3>
+    <p>
+      <a href="https://linkedin.com/in/chinmaya-v-369b41217" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
+      </a>
+      <a href="https://kaggle.com/chinmayavenkat" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" style="margin-right: 10px;" />
+      </a>
+      <a href="https://www.hackerrank.com/chinmayavenkat" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right: 10px;" />
+      </a>
+      <a href="https://www.leetcode.com/chinmaya_3141" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+      </a>
+    </p>
+  </div>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/chinmaya-v-369b41217" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaya-v-369b41217" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://kaggle.com/chinmayavenkat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.hackerrank.com/chinmayavenkat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chinmayavenkat" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.leetcode.com/chinmaya_3141" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chinmaya_3141" height="30" width="40" />
-  </a>
-</p>
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
